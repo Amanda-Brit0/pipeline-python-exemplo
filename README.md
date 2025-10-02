@@ -20,3 +20,4 @@ atividade-git-pipeline/
 └── README.md             # Documentação
 
 ````
+Olá, Amanda aqui.
